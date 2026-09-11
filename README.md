@@ -26,6 +26,11 @@ A standalone Windows desktop utility developed by **BIM Sphere Consulting** to i
 1. Navigate to the [Releases](https://github.com/BIM-Sphere-Consulting/software-integrity-auditor/releases) tab on the right side of this page.
 2. Download the latest `SoftwareAuditor_Protected.exe`.
 3. Run the executable directly. No administrative installer or external runtime is required.
+> **Note on Windows SmartScreen:**  
+> Because this is a newly released binary, Microsoft SmartScreen or Edge may show an *"Unknown app"* or *"Isn't commonly downloaded"* prompt.  
+> * In Edge: Click **`...` > Keep > Show More > Keep anyway**.  
+> * In Windows: Click **More info > Run anyway**.  
+> The executable has been submitted to Microsoft Security Intelligence for false-positive validation and contains no malicious code.
 
 ---
 
